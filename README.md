@@ -1,4 +1,8 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/102312082/179394600-11c7951b-9ec1-47fb-9782-c294ba4e429c.png)
+
+### Status : Etudiant BUT Informatique
+### I program especially in C#.
+
 
 <!--
 **JustSephix/JustSephix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
