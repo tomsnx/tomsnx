@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/102312082/179394600-11c7951b-9ec1-47fb-9782-c294ba4e429c.png)
 
 ### Status : Etudiant BUT Informatique
-### I program especially in C#.
+### C#, Java, JS <3
 
 
 <!--
