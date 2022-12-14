@@ -1,14 +1,8 @@
 ### Status : Etudiant BUT Informatique
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomsnx&label=Profile%20views&color=0e75b6&style=flat" alt="tomsnx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomsnx" alt="tomsnx" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/sephix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sephix" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/justsephix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sephix" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
